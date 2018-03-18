@@ -45,8 +45,8 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "atmos.org is Corey Donohoe, a software engineer."
-		content = "This website is mainly an archive of various open source projects. If we're old friends, get in touch via the links below."
+		title = "This is atmos.org..."
+		content = "It's mainly an archive of various open source projects. If we're old friends, get in touch via the links below."
 
 
 	[params.portfolio]
