@@ -79,18 +79,6 @@ paginate = 10
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
 	[params.recentposts]
 		hide  = true
 		title = "Recent blog posts"
