@@ -1,18 +1,18 @@
 {{ "<!-- Footer -->" | safeHTML }}
 <footer id="footer">
 	<ul class="icons">
+		{{ with .Site.Params.sidebar.github }}
+		<li><a href="//github.com/{{ . }}" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
+		{{ end }}
+		{{ with .Site.Params.sidebar.twitter }}
+		<li><a href="//twitter.com/{{ . }}" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+		{{ end }}
 		{{ with .Site.Params.sidebar.googleplus }}
 		<li><a href="//plus.google.com/+{{ . }}" target="_blank" class="icon fa-google-plus"><span class="label">Google Plus</span></a></li>
 		{{ end }}
 		{{ with .Site.Params.sidebar.facebook }}
         <li><a href="//facebook.com/{{ . }}" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
         {{ end }}
-		{{ with .Site.Params.sidebar.twitter }}
-		<li><a href="//twitter.com/{{ . }}" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-		{{ end }}
-		{{ with .Site.Params.sidebar.github }}
-		<li><a href="//github.com/{{ . }}" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
-		{{ end }}
 		{{ with .Site.Params.sidebar.linkedin }}
 		<li><a href="//linkedin.com/in/{{ . }}" target="_blank" class="icon fa-linkedin-square"><span class="label">Linkedin</span></a></li>
 		{{ end }}
