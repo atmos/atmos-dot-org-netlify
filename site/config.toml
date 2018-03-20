@@ -38,8 +38,7 @@ paginate = 10
 		linkedin = ""
 
 		copyright = [
-			"&copy; Corey Donohoe",
-			"Design: [HTML5 UP](//html5up.net)"
+			"&copy; atmos.org"
 		]
 
 
@@ -51,21 +50,19 @@ paginate = 10
 
 	[params.portfolio]
 		hide  = false
-		title = "Recent Work"
+		title = "Dogs"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "dogs/fulls/bailey1.jpg"
+			thumb = "dogs/thumbs/bailey1.png"
+			title = "Bailey"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "dogs/fulls/alia2.jpg"
+			thumb = "dogs/thumbs/alia2.png"
+			title = "Alia"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"

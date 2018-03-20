@@ -2079,6 +2079,7 @@
 
 		.image.avatar {
 			border-radius: 100%;
+      display: none;
 		}
 
 			.image.avatar:before {
