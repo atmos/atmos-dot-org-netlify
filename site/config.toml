@@ -57,17 +57,14 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "dogs/fulls/bailey1.jpg"
 			thumb = "dogs/thumbs/bailey1.png"
-			title = "Bailey"
 
 		[[params.portfolio.gallery]]
 			image = "dogs/fulls/alia2.jpg"
 			thumb = "dogs/thumbs/alia2.png"
-			title = "Alia"
 
 		[[params.portfolio.gallery]]
 			image = "dogs/fulls/zerodog.jpg"
 			thumb = "dogs/thumbs/zerodog.png"
-			title = "Zero"
 
 		[[params.portfolio.gallery]]
 			image = "dogs/fulls/99-0.jpg"
