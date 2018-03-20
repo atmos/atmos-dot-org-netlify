@@ -57,18 +57,22 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "dogs/fulls/bailey1.jpg"
 			thumb = "dogs/thumbs/bailey1.png"
+			title = ""
 
 		[[params.portfolio.gallery]]
 			image = "dogs/fulls/alia2.jpg"
 			thumb = "dogs/thumbs/alia2.png"
+			title = ""
 
 		[[params.portfolio.gallery]]
 			image = "dogs/fulls/zerodog.jpg"
 			thumb = "dogs/thumbs/zerodog.png"
+			title = ""
 
 		[[params.portfolio.gallery]]
 			image = "dogs/fulls/99-0.jpg"
 			thumb = "dogs/thumbs/99-0.png"
+			title = ""
 
 	[params.recentposts]
 		hide  = true
