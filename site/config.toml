@@ -34,7 +34,7 @@ paginate = 10
 		dribbble = ""
 		facebook = "corey.donohoe"
 		googleplus = ""
-		flickr = ""
+		flickr = "atmos"
 		linkedin = ""
 
 		copyright = [
@@ -70,10 +70,8 @@ paginate = 10
 			title = "Zero"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "dogs/fulls/99-0.jpg"
+			thumb = "dogs/thumbs/99-0.png"
 
 	[params.recentposts]
 		hide  = true
@@ -102,7 +100,7 @@ paginate = 10
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		email = ""
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
