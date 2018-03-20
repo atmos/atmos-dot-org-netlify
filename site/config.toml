@@ -65,10 +65,9 @@ paginate = 10
 			title = "Alia"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "dogs/fulls/zerodog.jpg"
+			thumb = "dogs/thumbs/zerodog.png"
+			title = "Zero"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
