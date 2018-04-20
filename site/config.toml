@@ -52,7 +52,7 @@ paginate = 10
 
 	[params.portfolio]
 		hide  = false
-		title = "dogs are prolly better than open source"
+		title = "these dogs are better than anything i open sourced"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
