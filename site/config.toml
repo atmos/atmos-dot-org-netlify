@@ -47,12 +47,12 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "I live in [NYC](https://goo.gl/maps/PXQGRkTaL2o) now"
-		content = "I rarely share anything here anymore. Here's some pictures of my friend's dogs."
+		content = ""
 
 
 	[params.portfolio]
 		hide  = false
-		title = "dogs are better than open source"
+		title = "dogs are prolly better than open source"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
