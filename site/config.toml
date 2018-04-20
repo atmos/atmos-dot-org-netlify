@@ -46,7 +46,7 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "I live in NYC now"
+		title = "I live in [NYC](https://goo.gl/maps/PXQGRkTaL2o) now"
 		content = "I rarely share anything here anymore. Here's some pictures of my friend's dogs."
 
 
