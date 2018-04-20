@@ -52,7 +52,7 @@ paginate = 10
 
 	[params.portfolio]
 		hide  = false
-		title = ""
+		title = "dogs are great"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
