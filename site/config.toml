@@ -32,6 +32,7 @@ paginate = 10
 		twitter = "atmos"
 		github = "atmos"
 		dribbble = ""
+               email = "atmos@atmos.org"
 		facebook = "corey.donohoe"
 		googleplus = ""
 		flickr = "atmos"
