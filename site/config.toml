@@ -118,7 +118,7 @@ paginate = 10
 	url  = "/"
 	weight = 0
 
-[[menu.main]]
-	name = "Quips"
-	url  = "post/"
-	weight = 10
+#[[menu.main]]
+#	name = "Quips"
+#	url  = "post/"
+#	weight = 10
