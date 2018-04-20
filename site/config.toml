@@ -46,8 +46,8 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "This is atmos.org..."
-		content = "It's mainly an archive of various open source projects. If we're old friends, get in touch via the links below."
+		title = "Where's Corey"
+		content = "I rarely share anything here anymore. Here's some pictures of my friend's dogs."
 
 
 	[params.portfolio]
