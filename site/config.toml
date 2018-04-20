@@ -117,7 +117,7 @@ paginate = 10
 	name = "Home"
 	url  = "/"
 	weight = 0
-       visible = false
+       hide = true
 
 #[[menu.main]]
 #	name = "Quips"
