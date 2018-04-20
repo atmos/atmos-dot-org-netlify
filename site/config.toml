@@ -37,6 +37,7 @@ paginate = 10
 		googleplus = ""
 		flickr = "atmos"
 		linkedin = ""
+               instagram = "atmoshax"
 
 		copyright = [
 			"&copy; atmos.org"
